@@ -1,4 +1,4 @@
-# Power BI Nutrition & Lifestyle Dashboard
+# FoodTrends: Understanding Customer Preferences in FB
 
 ---
 
